@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+}
+#images{
+    background-color: #911030;
+}
+.cont 
+{
+    background-color: rgb(77, 70, 70);
+    min-height: 1168px;
+}   
+.para
+{
+    color: white;
+    font-family: cursive;
+}
+
+.bannerimg 
+{
+width: 80px;
+margin: 0;
+top: 0px;
+left: 0px;
+
+    
+}
+.sigils
+{
+    min-height:13.5px ;
+    min-width: 9.4px;
+    
+    
+}
+.rectangle {
+    width: 80px;
+    height: 20px;
+    padding:3px;
+    margin: 3px;
+    background: rgba(228, 206, 13, 0.918);
+  }
+  .video {
+      height:300px;
+      
+  }
+  .footer
+  {     
+      font-size: large;
+      font-family: cursive;
+    
+      height: 30px;
+      background-color: rgb(83, 21, 73);
+      color: rgb(10, 2, 4);
+  }
+@media (min-width: 992px) {
+    .sigilscont{
+        height: 15% !important;
+        min-height: 250px !important;
+    }
+    
+}
+
